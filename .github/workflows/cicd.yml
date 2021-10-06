@@ -2,7 +2,7 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-# These are set of jobs that will be run while we will be uploading the packages.
+# These are set of jobs that will be run while we will be uploading the packages
 
 name: Upload Python Package
 
